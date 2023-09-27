@@ -1,4 +1,4 @@
-# robot-gladiators
+# Robot Gladiators
 
 ## Purpose
 Simple game where you fight enemies, and stop in shops, trying to get the high score.
